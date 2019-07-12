@@ -1,2 +1,2 @@
-# Crypto Prices is a web application created using Python and Django. 
-# It pulls crypto prices and news from trh Crypto Compare API, and was styled using Bootstrap.
+ Crypto Prices is a web application created using Python and Django. 
+It pulls crypto prices and news from trh Crypto Compare API, and was styled using Bootstrap.
